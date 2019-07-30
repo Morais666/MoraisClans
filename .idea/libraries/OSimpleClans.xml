@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="OSimpleClans">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../RUSH B/plugins/OSimpleClans.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

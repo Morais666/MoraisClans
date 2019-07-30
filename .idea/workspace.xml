@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Morais-ClanTag:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d46f2131-4d62-469f-8ee2-cc3d788645fc" name="Default Changelist" comment="22/07/2019 20:33">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Morais_ClanTag_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Morais_ClanTag_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Morais-ClanTag.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MoraisClans.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Morais_ClanTag_jar/Morais-ClanTag.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Morais-ClanTag/config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Morais-ClanTag/plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Morais-ClanTag/pt/morais_/clantag/A$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Morais-ClanTag/pt/morais_/clantag/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Morais-ClanTag/pt/morais_/clantag/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pt/morais_/clantag/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/morais_/clans/Events.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pt/morais_/clantag/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/morais_/clans/Main.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../../.." value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="1OTjfxfXYJO9SCFr5j77FUuBFk0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15592028" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Sousa\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d46f2131-4d62-469f-8ee2-cc3d788645fc" name="Default Changelist" comment="" />
+      <created>1563794972079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563794972079</updated>
+      <workItem from="1563794975648" duration="4576000" />
+      <workItem from="1563801100416" duration="61000" />
+      <workItem from="1563801256530" duration="382000" />
+      <workItem from="1563823523745" duration="3724000" />
+      <workItem from="1563833954287" duration="624000" />
+      <workItem from="1563873118568" duration="1127000" />
+      <workItem from="1563874348756" duration="132000" />
+      <workItem from="1563876755117" duration="1548000" />
+      <workItem from="1563878373620" duration="791000" />
+      <workItem from="1563963853619" duration="1650000" />
+      <workItem from="1564008605200" duration="750000" />
+      <workItem from="1564055953774" duration="1070000" />
+      <workItem from="1564087096568" duration="110000" />
+      <workItem from="1564093897904" duration="2469000" />
+      <workItem from="1564165522855" duration="25000" />
+      <workItem from="1564484036005" duration="3910000" />
+      <workItem from="1564489676471" duration="60000" />
+    </task>
+    <task id="LOCAL-00001" summary="22/07/2019 20:33">
+      <created>1563824306486</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563824306487</updated>
+    </task>
+    <task id="LOCAL-00002" summary="22/07/2019 20:33">
+      <created>1563826342588</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563826342588</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="22/07/2019 20:33" />
+    <option name="LAST_COMMIT_MESSAGE" value="22/07/2019 20:33" />
+  </component>
+</project>

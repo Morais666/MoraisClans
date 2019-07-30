@@ -1,0 +1,11 @@
+#Deixa "" para não aparecer nada
+Tag:
+  Abrir: "&f["
+  Fechar: "&f]"
+
+#SemClan
+#Sem-Clan: "" <-- Não vai aparecer nada no suffixo
+Sem-Clan: "&7[Sem-Clan]"
+
+#Tempo de checagem em segundos
+Refresh-Time: 10

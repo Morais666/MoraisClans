@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MoraisClans:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MoraisClans_jar</output-path>
+    <root id="archive" name="MoraisClans.jar">
+      <element id="module-output" name="MoraisClans" />
+    </root>
+  </artifact>
+</component>

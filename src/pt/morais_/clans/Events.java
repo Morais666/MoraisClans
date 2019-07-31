@@ -22,16 +22,15 @@ public class Events implements Listener {
                         if (sc.getClanManager().getClanPlayer(player) == null) {
                             //String "Sem-Clan" = "Without Clan"
                             NametagEdit.getApi().setSuffix(player, " " + config.getConfig().getString("Sem-Clan").replace("&", "§"));
-                            return;
+                        } else {
+                            //Tag.Abrir = "["+Clan
+                            //Tag.Fechar = Clan+"]"
+                            NametagEdit.getApi().setSuffix(player, " " + config.getConfig().getString("Tag.Abrir").replace("&", "§") + sc.getClanManager().getClanPlayer(player).getClan().getColorTag() + config.getConfig().getString("Tag.Fechar").replace("&", "§"));
                         }
-                        //Tag.Abrir = "["+Clan
-                        //Tag.Fechar = Clan+"]"
-                        NametagEdit.getApi().setSuffix(player, " " + config.getConfig().getString("Tag.Abrir").replace("&", "§") + sc.getClanManager().getClanPlayer(player).getClan().getColorTag() + config.getConfig().getString("Tag.Fechar").replace("&", "§"));
-                        }
+                    }
                 }
                 //Refresh-Time = time to check
             }, 20L, 20 * config.getConfig().getInt("Refresh-Time"));
     }
 }
-
 

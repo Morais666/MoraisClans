@@ -2,24 +2,12 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="Morais-ClanTag:jar" />
+      <artifact name="MoraisClans:jar" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d46f2131-4d62-469f-8ee2-cc3d788645fc" name="Default Changelist" comment="22/07/2019 20:33">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Morais_ClanTag_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Morais_ClanTag_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Morais-ClanTag.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MoraisClans.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Morais_ClanTag_jar/Morais-ClanTag.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Morais-ClanTag/config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Morais-ClanTag/plugin.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Morais-ClanTag/pt/morais_/clantag/A$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Morais-ClanTag/pt/morais_/clantag/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Morais-ClanTag/pt/morais_/clantag/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pt/morais_/clantag/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/morais_/clans/Events.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pt/morais_/clantag/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/morais_/clans/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +85,8 @@
       <workItem from="1564093897904" duration="2469000" />
       <workItem from="1564165522855" duration="25000" />
       <workItem from="1564484036005" duration="3910000" />
-      <workItem from="1564489676471" duration="60000" />
+      <workItem from="1564489676471" duration="1414000" />
+      <workItem from="1564492474568" duration="35000" />
     </task>
     <task id="LOCAL-00001" summary="22/07/2019 20:33">
       <created>1563824306486</created>
